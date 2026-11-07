@@ -1,0 +1,53 @@
+{
+  "item": {
+    "id": "979849880415",
+    "restype": "watchface",
+    "name": "ZOOM DIAL SINGULARITY",
+    "description": "ZOOM DIAL SINGULARITY_放大的刻度盘_激光射进黑洞\n光束指到哪就是几点, 手腕一歪黑洞跟着动, 亮屏先打几发激光, 玩耍为主.\n目前支持小米手环 10 / 11（含 NFC）\n动态效果在小红书看, 欢迎关注我 @叫我Brin就好.",
+    "preview": [
+      "media/03-preview-product.png",
+      "media/04-preview-wake.png",
+      "media/05-preview-tilt-aod.png"
+    ],
+    "icon": "media/01-icon.png",
+    "cover": "media/02-cover.png",
+    "author": [
+      {
+        "name": "brin",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [
+    {
+      "title": "在小红书查看动态表盘",
+      "url": "https://xhslink.cn/o/8ierYJqmfrs",
+      "icon": "link"
+    }
+  ],
+  "downloads": {
+    "xmb10": {
+      "version": "0.0.0",
+      "file_name": "downloads/Zoom Dial Singularity.bin",
+      "versionCode": 0
+    },
+    "xmb10nfc": {
+      "version": "0.0.0",
+      "file_name": "downloads/Zoom Dial Singularity.bin",
+      "versionCode": 0
+    },
+    "xmb11": {
+      "version": "0.0.0",
+      "file_name": "downloads/Zoom Dial Singularity.bin",
+      "versionCode": 0
+    },
+    "xmb11nfc": {
+      "version": "0.0.0",
+      "file_name": "downloads/Zoom Dial Singularity.bin",
+      "versionCode": 0
+    }
+  },
+  "ext": {
+    "enableAstroBoxCreatorFeatures": true
+  }
+}
