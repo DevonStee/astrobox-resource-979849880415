@@ -6,7 +6,7 @@
     "description": "ZOOM DIAL SINGULARITY_放大的刻度盘_激光射进黑洞\n\n看图吧, 脑细胞已经死了\n\n目前支持小米手环 10 / 11（含 NFC）/ 9 Pro / 10 Pro\n动态效果在小红书看, 欢迎关注我 @叫我Brin就好.",
     "preview": [
       "media/05-preview-3d-tilt.webp",
-      "media/03-preview-devices.png"
+      "media/03-preview-devices-v2.png"
     ],
     "icon": "media/01-icon.png",
     "cover": "media/02-cover.png",
@@ -25,47 +25,79 @@
     }
   ],
   "downloads": {
+    "xmb10": {
+      "version": "0.0.1",
+      "file_name": "downloads/Zoom Dial Singularity.bin",
+      "versionCode": 1,
+      "updatelogs": [
+        {
+          "version": "0.0.1",
+          "content": "背景重做：宣传片的点云隧道，黑洞随手腕在隧道深处转动；洞口、机械臂和动画节奏调整"
+        }
+      ]
+    },
+    "xmb10nfc": {
+      "version": "0.0.1",
+      "file_name": "downloads/Zoom Dial Singularity.bin",
+      "versionCode": 1,
+      "updatelogs": [
+        {
+          "version": "0.0.1",
+          "content": "背景重做：宣传片的点云隧道，黑洞随手腕在隧道深处转动；洞口、机械臂和动画节奏调整"
+        }
+      ]
+    },
+    "xmb11": {
+      "version": "0.0.1",
+      "file_name": "downloads/Zoom Dial Singularity.bin",
+      "versionCode": 1,
+      "updatelogs": [
+        {
+          "version": "0.0.1",
+          "content": "背景重做：宣传片的点云隧道，黑洞随手腕在隧道深处转动；洞口、机械臂和动画节奏调整"
+        }
+      ]
+    },
+    "xmb11nfc": {
+      "version": "0.0.1",
+      "file_name": "downloads/Zoom Dial Singularity.bin",
+      "versionCode": 1,
+      "updatelogs": [
+        {
+          "version": "0.0.1",
+          "content": "背景重做：宣传片的点云隧道，黑洞随手腕在隧道深处转动；洞口、机械臂和动画节奏调整"
+        }
+      ]
+    },
     "xmb9p": {
-      "version": "0.0.0",
+      "version": "0.0.1",
       "file_name": "downloads/Zoom Dial Singularity Pro.bin",
-      "versionCode": 0,
+      "versionCode": 1,
       "updatelogs": [
         {
           "version": "0.0.0",
           "content": "新增小米手环 9 Pro / 10 Pro 支持（方屏专用包）"
+        },
+        {
+          "version": "0.0.1",
+          "content": "背景重做：宣传片的点云隧道，黑洞随手腕在隧道深处转动；洞口、机械臂和动画节奏调整"
         }
       ]
     },
     "xmb10p": {
-      "version": "0.0.0",
+      "version": "0.0.1",
       "file_name": "downloads/Zoom Dial Singularity Pro.bin",
-      "versionCode": 0,
+      "versionCode": 1,
       "updatelogs": [
         {
           "version": "0.0.0",
           "content": "新增小米手环 9 Pro / 10 Pro 支持（方屏专用包）"
+        },
+        {
+          "version": "0.0.1",
+          "content": "背景重做：宣传片的点云隧道，黑洞随手腕在隧道深处转动；洞口、机械臂和动画节奏调整"
         }
       ]
-    },
-    "xmb10": {
-      "version": "0.0.0",
-      "file_name": "downloads/Zoom Dial Singularity.bin",
-      "versionCode": 0
-    },
-    "xmb10nfc": {
-      "version": "0.0.0",
-      "file_name": "downloads/Zoom Dial Singularity.bin",
-      "versionCode": 0
-    },
-    "xmb11": {
-      "version": "0.0.0",
-      "file_name": "downloads/Zoom Dial Singularity.bin",
-      "versionCode": 0
-    },
-    "xmb11nfc": {
-      "version": "0.0.0",
-      "file_name": "downloads/Zoom Dial Singularity.bin",
-      "versionCode": 0
     }
   },
   "ext": {
